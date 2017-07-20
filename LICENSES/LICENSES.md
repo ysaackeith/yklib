@@ -20,8 +20,7 @@ license. Parts of NumPy, SciPy, numpydoc, bottleneck, which all have
 BSD-compatible licenses, are included. Their licenses follow the pandas
 license.
 
-pandas license
-==============
+pandas license:
 
 Copyright (c) 2011-2012, Lambda Foundry, Inc. and PyData Development Team
 All rights reserved.
@@ -57,8 +56,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-About the Copyright Holders
-===========================
+About the Copyright Holders:
 
 AQR Capital Management began pandas development in 2008. Development was
 led by Wes McKinney. AQR released the source under this license in 2009.
@@ -72,8 +70,7 @@ http://github.com/pydata.
 
 Full credits for pandas contributors can be found in the documentation.
 
-Our Copyright Policy
-====================
+Our Copyright Policy:
 
 PyData uses a shared copyright model. Each contributor maintains copyright
 over their contributions to PyData. However, it is important to note that
