@@ -85,11 +85,9 @@ when they commit the change to one of the PyData repositories.
 With this in mind, the following banner should be used in any source code
 file to indicate the copyright and license terms:
 
-#-----------------------------------------------------------------------------
-# Copyright (c) 2012, PyData Development Team
-# All rights reserved.
-#
-# Distributed under the terms of the BSD Simplified License.
-#
-# The full license is in the LICENSE file, distributed with this software.
-#-----------------------------------------------------------------------------
+Copyright (c) 2012, PyData Development Team
+All rights reserved.
+
+Distributed under the terms of the BSD Simplified License.
+
+The full license is in the LICENSE file, distributed with this software.
